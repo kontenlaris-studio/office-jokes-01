@@ -1,3 +1,11 @@
+<div align="center">
+<img src="assets/logo.png?v=1" width="280" alt="office-jokes-01 logo">
+
+**Make the AI judge laugh — office jokes. HR's 'Mandatory Fun' calendar invite.**
+
+![Python](https://img.shields.io/badge/language-Python-0A1931?style=for-the-badge&labelColor=FF7A00) ![License MIT](https://img.shields.io/badge/license-MIT-0A1931?style=for-the-badge&labelColor=FF7A00) ![By Kontenlaris Studio](https://img.shields.io/badge/by-Kontenlaris_Studio-0A1931?style=for-the-badge&labelColor=FF7A00)
+</div>
+
 # kontenlaris-studio/office-jokes-01
 
 [![make.fun · u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
